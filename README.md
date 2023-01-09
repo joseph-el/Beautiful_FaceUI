@@ -15,9 +15,6 @@ Beautiful Face +UI 🎑
 </h1>
 
 
-
-
-
 <h1 align="center">
 
 <img src="https://user-images.githubusercontent.com/80905157/211365426-a5f432ce-5ec6-4452-a662-84453fe461f8.jpg" width="350" height="500" />
