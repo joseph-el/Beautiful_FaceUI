@@ -1,6 +1,6 @@
 <h1 align="center">
 
-Beautiful_FaceUI 🌅📸
+Beautiful_FaceUI 📸
 
 </h1>
 
